@@ -12,7 +12,5 @@ https://rockset.com/docs/langchain/ <br />
 https://github.com/rockset/rockset-python-client <br />
 
 ### Want more information?
-Check out this recording of a workshop I hosted on Vector Search: <br />
-_to_be_added_
-
+Check out this [recording](https://www.youtube.com/watch?v=5b2XqFej8Bs) of a workshop I hosted on Vector Search: <br />
 Check out these [slides](https://docs.google.com/presentation/d/1XfoBcKn81wFQEGKxhAgiL-vXphN7hB1ZV5QB-9IWlL0/edit?usp=sharing) on LangChain Basic Building Blocks. <br />
