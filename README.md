@@ -13,7 +13,6 @@ https://github.com/rockset/rockset-python-client <br />
 
 ### Want more information?
 Check out this recording of a workshop I hosted on Vector Search: <br />
-<to_be_added>
+_to_be_added_
 
 Check out these [slides](https://docs.google.com/presentation/d/1XfoBcKn81wFQEGKxhAgiL-vXphN7hB1ZV5QB-9IWlL0/edit?usp=sharing) on LangChain Basic Building Blocks. <br />
-https://docs.google.com/presentation/d/1XfoBcKn81wFQEGKxhAgiL-vXphN7hB1ZV5QB-9IWlL0/edit?usp=sharing <br />
