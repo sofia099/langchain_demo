@@ -6,10 +6,10 @@ You will need to create an account on both OpenAI and Rockset to get an API key 
 
 ### Useful docs
 
-https://python.langchain.com/docs/get_started
-https://python.langchain.com/docs/integrations
-https://rockset.com/docs/langchain/
-https://github.com/rockset/rockset-python-client
+https://python.langchain.com/docs/get_started <br />
+https://python.langchain.com/docs/integrations <br />
+https://rockset.com/docs/langchain/ <br />
+https://github.com/rockset/rockset-python-client <br />
 
 ### Want more information?
 Check out this recording of a workshop I hosted on Vector Search: <br />
